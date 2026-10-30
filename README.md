@@ -48,3 +48,6 @@ A board that reboots shows up there.
 - Board LED: pin 2 on most ESP32 dev boards. Change `LED_PIN` for yours.
 - Tested so far: `flutter analyze`, the socket tests, a release APK build, and both sketches compiled
   with arduino-esp32 2.0.17 (ESP32 / ESP32-S2). Not yet tested on hardware.
+
+## License
+MIT. See [LICENSE](LICENSE).
